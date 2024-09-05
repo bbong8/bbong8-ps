@@ -1,6 +1,6 @@
 # 24.09.03 / 수 찾기; Silver 4
 # Baekjoon Online Judge: 1920
-# Data Structure / Stack
+# Data Structure / Set
 import sys
 
 N = int(sys.stdin.readline())
